@@ -1,6 +1,6 @@
 # Resume
 
-![示例图片]([https://example.com/image.jpg](https://github.com/hanjiegit8/hanjie.github.io/blob/main/head%20sculpture.jpg))
+![Alt Text](图片链接)([https://example.com/image.jpg](https://github.com/hanjiegit8/hanjie.github.io/blob/main/head%20sculpture.jpg))
 
 ## Contact Information
 
